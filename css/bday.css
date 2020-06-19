@@ -65,3 +65,20 @@ h1{
         top: 54%
     }
 }
+
+section .content{
+    background: #D3D3D3;
+    box-shadow: 2px 3px 10px;
+}
+
+section .Content{
+    box-shadow: 2px 3px 10px;
+}
+
+.btn{
+    background: grey;
+}
+
+.btn:hover{
+    color: white;
+}
